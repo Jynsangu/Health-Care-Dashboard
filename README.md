@@ -4,7 +4,7 @@
 
 <img width="709" alt="picture" src="https://github.com/user-attachments/assets/052801cc-760d-422f-9f84-727aef044b93">
 
-This dashboard helps the overall management team understand their patients better. It helps each facility know if their patients are satisfied with the care services offered by the facility. Through their achievements, they get to know their improvement areas, & thus they can improve their services by identifying these areas.
+This dashboard provides the management team with valuable insights into patient satisfaction and care quality across facilities. It allows each facility to assess how well their patients are responding to the services provided. By tracking key performance indicators and achievements, the dashboard highlights areas that need improvement, empowering facilities to enhance their services and overall patient experience.
 
 ##Design considerations
 
